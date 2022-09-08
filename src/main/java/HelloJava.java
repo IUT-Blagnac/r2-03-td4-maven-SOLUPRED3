@@ -11,5 +11,6 @@ class HelloJava {
 
 	public static void afficherCancan(){
 		System.out.println("Cancan") ;
+		System.out.println("Vroum") ;
 	}
 }
